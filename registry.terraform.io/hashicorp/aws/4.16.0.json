@@ -1,0 +1,16 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:u1SMSE9I4DL7ODSNbNvNZbOpXm9w6GO34i82YHm/zL0="
+      ],
+      "url": "terraform-provider-aws_4.16.0_linux_amd64.zip"
+    },
+    "windows_amd64": {
+      "hashes": [
+        "h1:EbeMO5fGEc3pYiP9cC6endCFeUyzpJlYNcAH0Uc+yyI="
+      ],
+      "url": "terraform-provider-aws_4.16.0_windows_amd64.zip"
+    }
+  }
+}

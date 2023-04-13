@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "windows_amd64": {
+      "hashes": [
+        "h1:4ROcF2v7IzMzN557KSvyOc7KxXDngRxAeH1gANOv1gk="
+      ],
+      "url": "terraform-provider-vsphere_2.3.0_windows_amd64.zip"
+    }
+  }
+}

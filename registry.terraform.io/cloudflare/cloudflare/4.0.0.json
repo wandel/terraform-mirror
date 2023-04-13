@@ -1,0 +1,16 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:q82bAyaRw04V+n5oGaq/ccZvzioFGeBov8hk5IBY+v8="
+      ],
+      "url": "terraform-provider-cloudflare_4.0.0_linux_amd64.zip"
+    },
+    "windows_amd64": {
+      "hashes": [
+        "h1:mqj/nWn8KAbtkFT7TP4g6Z1EMPMLZxxYTzI6HuasN0k="
+      ],
+      "url": "terraform-provider-cloudflare_4.0.0_windows_amd64.zip"
+    }
+  }
+}
